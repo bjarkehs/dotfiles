@@ -56,7 +56,6 @@
  'company
  'erlang
  'flymake-cursor
- 'ido-ubiquitious
  'smex
  'yasnippet
  'writeroom-mode
